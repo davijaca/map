@@ -2,10 +2,10 @@
 <br />
 <div align="center">
 
-  <h3 align="center">BRINKS Sales Showcase</h3>
+  <h3 align="center">Animated Bus Map</h3>
 
   <p align="center">
-    Welcome to my Personal Brinks Sales page project!
+    Welcome to my Animated Bus Map Exercise!
     <br />
     <br />
   </p>
@@ -17,12 +17,11 @@
 ## About
 
 
-This is a single page html sales page I have made for myself to help me showcase to some of my perspective customers the value of the BRINKS Home Security services.
+This is a single page html application on the Animated Bus Map from the MIT xPro course.
 
-I have styled it similarly to the main BRINKS website using Bootstrap.
+The purpose of this exercise was to learn the implementation of APIs on web applications. The map, which is provided by the MapBox api, shows the locations of certain bus routes in the Boston area, locations which are provided by the Massachusetts Bay Transportation Authority API.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+On clicking the UPDATE button, the current geolocation of each bus is updated on the map.
 
 
 ### Built With
@@ -31,7 +30,8 @@ I have styled it similarly to the main BRINKS website using Bootstrap.
 * HTML
 * CSS
 * JAVASCRIPT
-* BOOTSTRAP
+* MAPBOX API
+* MBTA API
 
 
 <!-- GETTING STARTED -->
